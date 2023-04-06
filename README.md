@@ -1,3 +1,3 @@
 # OTF in AWS
 
-This repo shows a way to use AWS Batch and ECS Fargate to trigger jobs that run OTF tasks
+This repo has some Dockerfiles to create a Docker image for OTF with the AWS addon. And a half working shell script to create some components in AWS to run it.
